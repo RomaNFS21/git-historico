@@ -1,0 +1,1 @@
+Executar os comandos do git para criar uma pasta repositorio e seguir as estruções
